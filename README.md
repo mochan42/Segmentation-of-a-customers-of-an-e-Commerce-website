@@ -1,4 +1,4 @@
-# Segmentation-of-a-customers-of-an-e-Commerce-website!
+# Segmentation-of-a-customers-of-an-e-Commerce-website
 
 
 # Aim of this project
